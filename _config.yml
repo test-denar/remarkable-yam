@@ -136,3 +136,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://remarkable-yam-27b48.netlify.app'
